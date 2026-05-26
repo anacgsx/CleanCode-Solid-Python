@@ -58,53 +58,25 @@ Os cinco princípios SOLID também foram aplicados:
 # Exercícios desenvolvidos
 
 ---
-| Exercício | Tema                          | Objetivo                                             | Conceitos aplicados   |
-| --- | ----------------------------------- | ---------------------------------------------------- | ----------------------|
-| 1   | Nomes significativos | Refatorar funções utilizando nomes mais claros e descritivos. | * Clean Code
-* Legibilidade
-* Intenção explícita |
-| 2   | Removendo código duplicado | Eliminar repetição criando funções reutilizáveis.  | * DRY (Don't Repeat Yourself)
-* Reutilização de código |
-| 3   | Responsabilidade única (SRP) | Separar funções que realizavam múltiplas tarefas. | * SRP
-* Organização modular |
-| 4   | Evitando números mágicos | Substituir valores fixos por constantes nomeadas. | 
-* Clean Code
-* Legibilidade
-* Manutenção facilitada |
-| 5   | Classe Cliente | Agrupar informações relacionadas em uma classe. | * Encapsulamento
-* POO
-* Organização de dados |
-| 6   | Aplicando SRP em relatórios | Separar responsabilidades em diferentes classes. | * SRP
-* Baixo acoplamento |
-| 7   | Aplicando OCP em descontos  | Permitir extensão do sistema sem modificar código existente. | * OCP
-* Extensibilidade |
-| 8   | Aplicando LSP em formas geométricas | Garantir substituição segura entre subclasses. | * LSP
-* Polimorfismo |
-| 9   | Evitando violação do LSP | Evitar heranças incorretas. | * LSP
-* Modelagem correta |
-| 10  | Aplicando ISP | Separar interfaces específicas. | 
-* ISP
-* Interfaces segregadas |
-| 11  | Aplicando DIP | Reduzir dependência entre classes concretas. | * DIP
-* Inversão de dependência |
-| 12  | Cadastro de produtos | Criar sistema simples de gerenciamento de produtos. | 
-* POO
-* SRP
-* Clean Code |
-| 13  | Sistema de biblioteca | Controlar empréstimos de livros. | * Registrar empréstimos;
-* Marcar devolução;
-* Listar empréstimos ativos. |
-| 14  | Sistema de pagamentose | Refatorar pagamentos aplicando OCP e DIP. | 
-* OCP
-* DIP
-* Polimorfismo |
-| 15  | Mini projeto completo | Desenvolver um sistema de pedidos aplicando Clean Code e SOLID. | * SRP
-* OCP
-* LSP
-* ISP
-* DIP |
+| Exercício | Tema                          | Objetivo                                             |
+| --- | ----------------------------------- | ---------------------------------------------------- |
+| 1   | Nomes significativos | Refatorar funções utilizando nomes mais claros e descritivos. |
+| 2   | Removendo código duplicado | Eliminar repetição criando funções reutilizáveis.  |
+| 3   | Responsabilidade única (SRP) | Separar funções que realizavam múltiplas tarefas. |
+| 4   | Evitando números mágicos | Substituir valores fixos por constantes nomeadas. |
+| 5   | Classe Cliente | Agrupar informações relacionadas em uma classe. |
+| 6   | Aplicando SRP em relatórios | Separar responsabilidades em diferentes classes. |
+| 7   | Aplicando OCP em descontos  | Permitir extensão do sistema sem modificar código existente. |
+| 8   | Aplicando LSP em formas geométricas | Garantir substituição segura entre subclasses. |
+| 9   | Evitando violação do LSP | Evitar heranças incorretas. |
+| 10  | Aplicando ISP | Separar interfaces específicas. |
+| 11  | Aplicando DIP | Reduzir dependência entre classes concretas. |
+| 12  | Cadastro de produtos | Criar sistema simples de gerenciamento de produtos. |
+| 13  | Sistema de biblioteca | Controlar empréstimos de livros. |
+| 14  | Sistema de pagamentose | Refatorar pagamentos aplicando OCP e DIP. |
+| 15  | Mini projeto completo | Desenvolver um sistema de pedidos aplicando Clean Code e SOLID. |
 
----
+----
 
 # Como executar os exercícios
 
